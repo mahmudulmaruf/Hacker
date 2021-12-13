@@ -80,7 +80,7 @@ def menu():
     os.system('clear')
     print logo
     print ''
-    print 'Script Claimed By   :'Md.Maruf Jamal; '
+    print 'Script Claimed By   :'Md.Maruf Jamal'
     print 'FACEBOOK : facebook.com/developermaruf.gq'
     print 'TEAM     : 'Dude,Gang Lekar Ane Walahe Gangster,Mera To Gang Nehihe,Meho One Star..So,Mera Kohi Team Bi Nehihe!
     print ''
